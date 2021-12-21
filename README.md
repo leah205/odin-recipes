@@ -1,2 +1,2 @@
 # odin-recipes
-This project is a recipes page. It helped me review my html skills and solidified my knowlege of relative links
+This project is a recipes page. It helped me review my html skills and solidified my knowlege of relative links. It also helped me practice css, in particular different selectors and the cascade.
